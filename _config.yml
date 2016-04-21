@@ -3,18 +3,18 @@ highlighter: rouge
 
 # Permalinks
 permalink: /posts/:title
-timezone: America/Sao_Paulo
+timezone: America/Austin
 
 # Setup
-title: Carlos Alexandro Becker
-description: 'Software development and related stuff, by Carlos A. Becker'
+title: Soheil Salehian
+description: 'My adventures of building distributed artificial intelligence systems, by Soheil Salehian'
 baseurl:     ''
-url:         'http://carlosbecker.com'
+url:         'http://soheilsalehian.github.com'
 
 author:
-  name: 'Carlos Alexandro Becker'
-  url: https://twitter.com/caarlos0
-  email: caarlos0+formspree@gmail.com
+  name: 'Soheil Salehian'
+  url: https://angel.co/soheil-salehian
+  email: soheil.salehian@gmail.com
 
 exclude:
   - Gemfile
@@ -37,8 +37,4 @@ animated: true
 
 # Social icons
 show_social_icons: true
-github_username: caarlos0
-twitter_username: caarlos0
-
-google_analytics: UA-50435491-1
-disqus_shortname: caarlos0blog
+github_username: soheilsalehian
