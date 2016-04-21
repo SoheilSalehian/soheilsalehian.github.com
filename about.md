@@ -11,7 +11,11 @@ play around with cool tools and languages to solve some interesting CV + softwar
 
 I am all about the intersection of computer vision and distributed software systems which became of area of interest during my thesis in graduate studies. This blog is to share my adventures in building distributed software systems that elegantly incorporate machine learning and computer vision and I hope that you find it somewhat useful.
 
-Beyond tech, the philosophy of Zen has piqued my interest; particularly the ever stimulating words of [Alan Watts](https://en.wikipedia.org/wiki/Alan_Watts).
+I love traveling the world with the love of my life, Arlette.
+
+![Arlette and I](/public/images/about.jpg)
+
+Beyond tech, the philosophy of Zen has piqued my interest lately; particularly the ever stimulating words of [Alan Watts](https://en.wikipedia.org/wiki/Alan_Watts).
 
 Leave me a comment/message for anything computer vision related, I'd love a good chat about the cool problems and applications of the domain.
 
