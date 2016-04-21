@@ -9,7 +9,7 @@ time between designing CV/ML algorithms and developing distributed architectures
 to run those algorithms at [OwnLocal](http://ownlocal.com). Most of the time, I get to
 play around with cool tools and languages to solve some interesting CV + software problems.
 
-I am all about the intersection of computer vision and distributed software systems which became of area of interest during my thesis in graduate studies. This blog is to share my adventures in building distributed software systems that elegantly incorporate machine learning and computer vision and I hope that you find it somewhat useful.
+This intersection of software + CV became my area of interest during my thesis in graduate school. This blog is to share my adventures in building distributed software systems that elegantly incorporate machine learning and computer vision and I hope that you find it somewhat useful.
 
 I love traveling the world with the love of my life, Arlette.
 
