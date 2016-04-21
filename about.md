@@ -4,31 +4,19 @@ title: About
 permalink: /about/
 ---
 
-Carlos is a software developer based in Joinville, Brazil. He currently works
-as senior software engineer at [ContaAzul](http://contaazul.com) and does
-some extra work remotely for [Teamed.io](http://www.teamed.io/).
+I am a computer vision software engineer based out of Austin, TX. I split my
+time between designing CV/ML algorithms and developing distributed architectures
+to run those algorithms at [OwnLocal](http://ownlocal.com). Most of the time, I get to
+play around with cool tools and languages to solve some interesting CV + software problems.
 
-When not working, he's [blogging](http://carlosbecker.com),
-hacking on [open source](https://github.com/caarlos0)
-and learning new things.
+I am all about the intersection of computer vision and distributed software systems which became of area of interest during my thesis in graduate studies. This blog is to share my adventures in building distributed software systems that elegantly incorporate machine learning and computer vision and I hope that you find it somewhat useful.
 
-Carlos is interested in programming languages, containers and infrastructure as
-code. Currently he is doing a lot of Java and Go code and playing around with
-Docker, Puppet and Bash script.
+Beyond tech, the philosophy of Zen has piqued my interest; particularly the ever stimulating words of [Alan Watts](https://en.wikipedia.org/wiki/Alan_Watts).
 
-![me and my wife in Foz do Iguaçu Falls](/public/images/about.jpg)
+Leave me a comment/message for anything computer vision related, I'd love a good chat about the cool problems and applications of the domain.
 
-He's married with this [beautiful girl](http://twitter.com/carinemeyer) in the
-photo and lives with her and their Chinchila,
-[Zakk](http://www.youtube.com/watch?v=YtWlIPGpxTc),
-in [Joinville - SC, Brazil](http://goo.gl/maps/9tvI4).
+:wq
 
-He also plays as Defensive End in [Joinville Gladiators][glads] Football
-team.
 
-![me in a train](/public/images/glads.jpg)
-
-[glads]: http://www.joinvillegladiators.com.br
-
-Wanna talk about something? Want to hire me? Looking for a consultant?
+Thoughts? Want to hire me or consult?
 [**Contact me**](/contact).
